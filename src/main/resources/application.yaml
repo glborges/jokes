@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: jokes
+external-joke-api:
+  base-url: https://v2.jokeapi.dev
